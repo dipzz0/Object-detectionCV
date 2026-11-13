@@ -1,7 +1,7 @@
 <h1 align="center">Object-detectionCV</h1>
 
 <p align="center">
-  <a href="https://colab.research.google.com/github/dipzz0/Object-detectionCV/blob/main/Object-detection.py" target="_blank"><img src="https://img.shields.io/badge/Open_In_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Open In Colab"></a>
+  <a href="https://colab.research.google.com/github/dipzz0/Object-detectionCV/blob/main/Object-detection.ipynb" target="_blank"><img src="https://img.shields.io/badge/Open_In_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Open In Colab"></a>
   <img src="https://img.shields.io/badge/Model-YOLOv8_Nano-8b5cf6?style=for-the-badge&logo=ultralytics&logoColor=white" alt="YOLOv8 Nano">
   <img src="https://img.shields.io/badge/Dataset-MS_COCO_80_Classes-ec4899?style=for-the-badge" alt="MS COCO 80 Classes">
   <img src="https://img.shields.io/badge/Vision-OpenCV_4.x-5c8cb8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
